@@ -1,0 +1,13 @@
+torch
+transformers
+streamlit
+unsloth
+huggingface_hub
+bitsandbytes
+accelerate
+peft
+trl
+datasets
+sentencepiece
+xformers
+requests
